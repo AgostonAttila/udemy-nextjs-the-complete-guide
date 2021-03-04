@@ -1,4 +1,5 @@
-##UDEMY NextJS & React - The Complete Guide
+## UDEMY NextJS & React - The Complete Guide
+
 https://www.udemy.com/course/nextjs-react-the-complete-guide/
 
 Learn NextJS from the ground up and build production-ready, fullstack ReactJS apps with the NextJS framework!
